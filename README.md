@@ -1,16 +1,36 @@
-## Hi there 👋
+## About
 
-<!--
-**AntoLee/AntoLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Basic:
+- Hometown:
+  - 🇭🇰 Hong Kong
+- Residence:
+  - 🇮🇹 Italy
 
-Here are some ideas to get you started:
+### Language:
+- Speak:
+  - 🇬🇧 English
+  - 🇹🇼 Mandarin
+- Read:
+  - 🇭🇰 Cantonese
+  - 🇯🇵 Japanese
+- Learn:
+  - 🇩🇪 German
+  - 🇮🇹 Italian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education:
+- Bachelor:
+  - 🇮🇹 University of Trento
+    - Year:
+      - 2024/2025 - current
+    - Major:
+      - Computer Science
+    - GPA:
+      - 94/100
+- Senior secondary:
+  - 🇭🇰 Shenzhen NO.22 Senior High School
+    - Year:
+      - 2021/2022 - 2024/2025
+    - Major:
+      - Science Stream
+    - GPA:
+      - 77/100
