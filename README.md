@@ -1,12 +1,12 @@
 ## About
 
-### Basic:
+### Basic
 - Hometown:
   - 🇭🇰 Hong Kong
 - Residence:
   - 🇮🇹 Italy
 
-### Language:
+### Language
 - Speak:
   - 🇬🇧 English
   - 🇹🇼 Mandarin
@@ -17,7 +17,7 @@
   - 🇩🇪 German
   - 🇮🇹 Italian
 
-### Education:
+### Education
 - Bachelor:
   - 🇮🇹 University of Trento
     - Year:
