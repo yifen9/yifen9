@@ -25,20 +25,16 @@
   </table>
 </div>
 
-### Basic
-- Residence:
+### Residence:
+- 2025 ~ 2026
   - 🇩🇪 Germany
-    - Year:
-      - 2025 ~ 2026
-    - City:
-      - Saarbrücken
+     - Saarbrücken
+- 2024 ~ 2025
   - 🇮🇹 Italy
-    - Year:
-      - 2024 ~ 2025
-    - City:
-      - Trento
-- Hometown:
+     - Trento
+- 2005 ~ 2024
   - 🇭🇰 Hong Kong
+     - Shenzhen
 
 ### Language
 - Speak:
