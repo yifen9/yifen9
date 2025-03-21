@@ -27,14 +27,11 @@
 
 ### Residence:
 - 2025 ~ 2026
-  - 🇩🇪 Germany
-     - Saarbrücken
+  - 🇩🇪 Saarbrücken
 - 2024 ~ 2025
-  - 🇮🇹 Italy
-     - Trento
+  - 🇮🇹 Trento
 - 2005 ~ 2024
-  - 🇭🇰 Hong Kong
-     - Shenzhen
+  - 🇭🇰 Shenzhen
 
 ### Language
 - Speak:
