@@ -26,10 +26,19 @@
 </div>
 
 ### Basic
+- Residence:
+  - 🇩🇪 Germany
+    - Year:
+      - 2025 ~ 2026
+    - City:
+      - Saarbrücken
+  - 🇮🇹 Italy
+    - Year:
+      - 2024 ~ 2025
+    - City:
+      - Trento
 - Hometown:
   - 🇭🇰 Hong Kong
-- Residence:
-  - 🇮🇹 Italy
 
 ### Language
 - Speak:
@@ -44,9 +53,14 @@
 
 ### Education
 - Bachelor:
+  - 🇩🇪 Saarland University
+    - Year:
+      - 2025/2026 ~ 2026/2027
+    - Major:
+      - Computer Science
   - 🇮🇹 University of Trento
     - Year:
-      - 2024/2025 - current
+      - 2024/2025 ~ 2025/2026
     - Major:
       - Computer Science
     - GPA:
@@ -54,7 +68,7 @@
 - Senior secondary:
   - 🇭🇰 Shenzhen NO.22 Senior High School
     - Year:
-      - 2021/2022 - 2024/2025
+      - 2021/2022 ~ 2024/2025
     - Major:
       - Science Stream
     - GPA:
