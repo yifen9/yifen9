@@ -25,7 +25,7 @@
   </table>
 </div>
 
-### Residence:
+### Residence
 - 2025 ~ 2026
   - 🇩🇪 Saarbrücken
 - 2024 ~ 2025
@@ -34,35 +34,35 @@
   - 🇭🇰 Shenzhen
 
 ### Language
-- Speak:
+- Speak
   - 🇬🇧 English
   - 🇹🇼 Mandarin
-- Read:
+- Read
   - 🇭🇰 Cantonese
   - 🇯🇵 Japanese
-- Learn:
+- Learn
   - 🇩🇪 German
   - 🇮🇹 Italian
 
 ### Education
-- Bachelor:
+- Bachelor
   - 🇩🇪 Saarland University
-    - Year:
+    - Year
       - 2025/2026 ~ 2026/2027
-    - Major:
+    - Major
       - Computer Science
   - 🇮🇹 University of Trento
-    - Year:
+    - Year
       - 2024/2025 ~ 2025/2026
-    - Major:
+    - Major
       - Computer Science
-    - GPA:
+    - GPA
       - 94/100
-- Senior secondary:
+- Senior secondary
   - 🇭🇰 Shenzhen NO.22 Senior High School
-    - Year:
+    - Year
       - 2021/2022 ~ 2024/2025
-    - Major:
+    - Major
       - Science Stream
-    - GPA:
+    - GPA
       - 77/100
