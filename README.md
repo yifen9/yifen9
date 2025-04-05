@@ -7,8 +7,10 @@ Li Yifeng ( 李 艺峰 | /lǐ jì fēng/ ), with Li as my surname, male, was bor
 
 ### Main Project
 
-- [my Personal Website](https://yifen9.github.io)
-- [Notes and Resources of my Bachelor Studying](https://github.com/yifen9/UNITN.BSc)
+- [yifen9.github.io](https://yifen9.github.io)
+  - my Personal Website
+- [UNITN.BSc](https://github.com/yifen9/UNITN.BSc)
+  - Notes and Resources of my Computer Science Bachelor Studying in University of Trento
 
 ---
 
