@@ -11,6 +11,8 @@ Li Yifeng ( 李 艺峰 | /lǐ jì fēng/ ), with Li as my surname, male, was bor
   - my Personal Website
 - [UNITN.BSc](https://github.com/yifen9/UNITN.BSc)
   - Notes and Resources of my Computer Science Bachelor Studying in University of Trento
+- [DomiNyan](https://github.com/yifen9/DomiNyan)
+  - Train an AI to Play Dominion
 
 ---
 
