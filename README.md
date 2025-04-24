@@ -11,7 +11,7 @@ Li Yifeng ( 李 艺峰 | /lǐ jì fēng/ ), with Li as my surname, male, was bor
   - my Personal Website
 - [UNITN.BSc](https://yifen9.github.io/UNITN.BSc)
   - Notes and Resources of my Computer Science Bachelor Studying in University of Trento
-- [Itera.jl](https://github.com/yifen9/Itera)
+- [Itera.jl](https://github.com/yifen9/Itera.jl)
   - A lightweight, extensible Julia framework for building turn‑based, card/strategy games
 - [DomiNyan](https://github.com/yifen9/DomiNyan)
   - Train an AI to Play Dominion
