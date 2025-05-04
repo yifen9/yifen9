@@ -18,4 +18,4 @@ Li Yifeng ( 李 艺峰 | /lǐ jì fēng/ ), with Li as my surname, male, was bor
 - [Liria](https://github.com/yifen9/Liria)
   - A DSL frontend engine serving for Itera.jl writen in Gleam and OCaml
 - [DomiNyan](https://github.com/yifen9/DomiNyan)
-  - Train an AI to Play Dominion
+  - Train an AI to Play Dominion (abandoned, now move to [Itera.jl](https://github.com/yifen9/Itera.jl), [Liria](https://github.com/yifen9/Liria) and [Oriva](https://github.com/yifen9/Oriva))
