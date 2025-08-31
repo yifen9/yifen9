@@ -3,7 +3,7 @@
     <tr>
       <td>
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=yifen9&show_icons=true&theme=transparent&bg_color=00000000&card_width=800"/>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=yifen9&show_icons=true&theme=transparent&bg_color=00000000&card_height=800"/>
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=yifen9&show_icons=true" />
         </picture>
       </td>
